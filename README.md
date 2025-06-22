@@ -70,7 +70,6 @@ To generate fast, reliable, and explainable sales insights using GenAI tools and
 | Tool           | Purpose                          |
 |----------------|----------------------------------|
 | PowerDrill     | GenAI-driven EDA and summarisation |
-| Prompt Engineering | Guided AI analysis queries         |
 | Tableau        | Visual storytelling & dashboarding |
 | Excel/Sheets   | Light data cleanup     |
 | GitHub         | Version control and publishing     |
